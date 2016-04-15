@@ -29,7 +29,7 @@ menu:
   #categories: /categories
   #about: /about
   archives: /archives
-  tags: /tags
+  weibo: http://weibo.com/triumphalism
   #commonweal: /404.html
 
 
@@ -47,6 +47,7 @@ menu_icons:
   tags: tags
   archives: archive
   commonweal: heartbeat
+  weibo: user
 
 
 
